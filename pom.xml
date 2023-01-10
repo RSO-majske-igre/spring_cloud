@@ -8,7 +8,7 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.config.server</groupId>
+	<groupId>team.marela</groupId>
 	<artifactId>config_server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>config_server</name>
