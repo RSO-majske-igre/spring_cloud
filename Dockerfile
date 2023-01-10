@@ -8,4 +8,4 @@ RUN mkdir /app
 WORKDIR /app
 COPY --from=build ./app/target/config_server-0.0.1-SNAPSHOT.jar /app
 EXPOSE 8888
-CMD ["java", "-jar", "api-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "config_server-0.0.1-SNAPSHOT.jar"]
